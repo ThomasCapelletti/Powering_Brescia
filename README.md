@@ -92,7 +92,6 @@ The results include interactive maps showing optimal station placement.
 ## Final Deliverables
 
 * `Powering_Brescia.pdf`: the full project report detailing all analyses conducted
-* `Powering_Brescia.ppt`: presentation slides
 * `Powering_Brescia_Poster.pdf`: project poster
 
 ---
