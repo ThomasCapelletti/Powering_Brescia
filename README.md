@@ -1,3 +1,5 @@
+---
+
 # Powering Brescia — EV Charging Demand and Optimization Project
 
 This repository contains the code, data, and results for a spatial analysis and optimization project focused on estimating electric vehicle (EV) charging demand in the Province of Brescia and identifying optimal locations for charging stations.
@@ -6,7 +8,7 @@ This repository contains the code, data, and results for a spatial analysis and 
 
 ## Project Structure
 
-The project is organized into five main folders, each representing a key step in the workflow — from raw data cleaning to final optimization — with intermediate datasets and interactive visualizations.
+The project is structured into five primary folders, each corresponding to a critical stage in the workflow, ranging from raw data cleaning to final optimization. This organization includes intermediate datasets and interactive visualizations to support each phase of the analysis.
 
 ---
 
@@ -89,7 +91,7 @@ The results include interactive maps showing optimal station placement.
 
 ## Final Deliverables
 
-* `Powering_Brescia.pdf`: full project report
+* `Powering_Brescia.pdf`: the full project report detailing all analyses conducted
 * `Powering_Brescia.ppt`: presentation slides
 * `Powering_Brescia_Poster.pdf`: project poster
 
@@ -101,5 +103,3 @@ The results include interactive maps showing optimal station placement.
 * This constraint does not affect the current scenario due to the limited number of stations, but facilitates consistent application across all scenarios.
 
 ---
-
-Se vuoi, posso aiutarti anche a tradurlo in italiano o a preparare una versione più sintetica per il file README.md. Vuoi?
